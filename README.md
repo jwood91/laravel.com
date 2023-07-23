@@ -1,3 +1,9 @@
+## This Repository
+This is a repository I set up that cloned the laravel website.
+I used this to learn how to use laravel sail in intializing a laravel project.
+The below details are from their README and detail how to do it with laravel Valet but in version 10.x sail is reccomended for when using docker.
+
+
 ## Laravel Website
 
 This is the source of the official [Laravel website](https://laravel.com).
